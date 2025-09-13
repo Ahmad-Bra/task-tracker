@@ -14,7 +14,7 @@ Node.js installed on your system.
 Installation
 Clone the Repository
 
-git clone --depth=1 https://github.com/Ahmad-Bra/github-user-acivity
+git clone --depth=1 https://github.com/Ahmad-Bra/task-tracker
 
 # Navigate to the project Directory
 cd backend-projects/task-cli
